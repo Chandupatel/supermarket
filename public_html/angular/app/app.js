@@ -1,0 +1,1 @@
+var app = angular.module('EcommerceApp', ['ngDialog', 'ngAnimate', 'toaster']);
