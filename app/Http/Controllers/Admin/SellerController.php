@@ -48,9 +48,6 @@ class SellerController extends Controller
             'zip_code' => ['required'],
             'address' => ['required'],
         ]);
-
-
-        
     }
 
     /**
